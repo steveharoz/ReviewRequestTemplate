@@ -1,0 +1,28 @@
+Dear {reviewerName},
+
+I would like to invite you to review a submission for {confName}:
+
+
+
+
+#{paperNumber}: {paperTitle}
+----------------------------
+{paperAbstract}
+----------------------------
+You can view the full document before deciding to do the review by logging in at {confURL}
+
+
+
+
+Review deadline: {reviewDeadline}
+
+Review guidelines: http://vgtc.org/about_us/conferences/ethics-guidelines
+
+After the deadline, the reviewers will have one week to discuss the submission in a forum, so it's important that reviews are submitted on time.
+
+  {acceptOrDeclineURL}
+
+Feel free to contact me if there any questions or concerns.
+
+Thank you,
+{primaryName}
