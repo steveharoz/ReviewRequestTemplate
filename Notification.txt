@@ -1,3 +1,5 @@
+This is just the currently used text. It needs clarity work.
+
 ## Subject
 
 {venue} notification - #{submission_number}
