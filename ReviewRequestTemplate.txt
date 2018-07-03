@@ -1,28 +1,29 @@
-Dear {reviewerName},
+Dear {recipient name},
 
-I would like to invite you to review a submission for {confName}:
-
-
+I would like to invite you to review a submission for {conference name}:
 
 
-#{paperNumber}: {paperTitle}
+
+
+#{submission number}: {submission title}
 ----------------------------
-{paperAbstract}
+{submission abstract}
 ----------------------------
-You can view the full document before deciding to do the review by logging in at {confURL}
+You can view the full document before deciding to do the review by logging in at {conference link}
 
 
 
 
-Review deadline: {reviewDeadline}
+Review deadline: ???
 
 Review guidelines: http://vgtc.org/about_us/conferences/ethics-guidelines
 
 After the deadline, the reviewers will have one week to discuss the submission in a forum, so it's important that reviews are submitted on time.
 
-  {acceptOrDeclineURL}
+  accept:  {accept link}
+  decline: {decline link}
 
 Feel free to contact me if there any questions or concerns.
 
 Thank you,
-{primaryName}
+{sender name}
